@@ -2,6 +2,11 @@
 
 I am a Full Stack developer (self taught) from India with 1+ years of experience in MERN stack. Always open to learn new technologies which improves my development experience. 
 
+- 🔭 I’m currently working on [yousound](https://github.com/Mohanbarman/yousound)
+- 🌱 I’m currently learning golang and DSA.
+- 📫 How to reach me: <a href='mailto:mohanbarman9711@gmail.com'>Mail<a>, <a href='https://www.linkedin.com/in/mohanbarman/'>Linkedin</a>
+  
+
 ### My Skills
 
 #### Programming langugages
@@ -65,8 +70,4 @@ I am a Full Stack developer (self taught) from India with 1+ years of experience
 <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />&nbsp;
 
 
-- 🔭 I’m currently working on [yousound](https://github.com/Mohanbarman/yousound)
-- 🌱 I’m currently learning golang and DSA.
-- 📫 How to reach me: <a href='mailto:mohanbarman9711@gmail.com'>Mail<a>, <a href='https://www.linkedin.com/in/mohanbarman/'>Linkedin</a>
-  
 [![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanbarman&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
