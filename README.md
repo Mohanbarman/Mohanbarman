@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Full Stack developer (self taught) from India with 1+ years of experience in MERN stack. Always open to learn new technologies which improves my development experience. 
+I am a Full Stack developer from India with 1+ years of experience in MERN stack. Always open to learn new technologies which improves my development experience. 
 
 - 🔭 I’m currently working on [yousound](https://github.com/Mohanbarman/yousound)
 - 🌱 I’m currently learning golang and DSA.
