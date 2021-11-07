@@ -2,7 +2,7 @@
 
 I am a Full Stack developer from India with 1+ years of experience in MERN stack. I taught myself programming when I was in 10th standard (2016) on a Android Device
 
-- 🔭 I’m currently working on [yousound](https://github.com/Mohanbarman/yousound)
+- 🔭 I’m currently working on [devbin](https://github.com/Mohanbarman/devbin)
 - 🌱 I’m currently learning DSA.
 - 📫 How to reach me: <a href='mailto:mohanbarman9711@gmail.com'>Mail<a>, <a href='https://www.linkedin.com/in/mohanbarman/'>Linkedin</a>
   
