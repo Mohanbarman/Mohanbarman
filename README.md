@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Full Stack developer from India with 1+ years of experience in MERN stack. I taught myself programming when I was in 10th standard (2016) on a Android Device
+I am a Full Stack developer from India with 1+ years of experience in MERN stack
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning everything
