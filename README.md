@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Full Stack developer from India with 1+ years of experience in MERN stack
+A self-taught programmer from India 🇮🇳 with a knack for crafting scalable backend applications. Fluent in JavaScript, TypeScript, Python. Proficient in Node.js, Express.js, Nest.js, Django/DRF, and more. A Linux aficionado and Neovim devotee.
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning everything
